@@ -14,5 +14,6 @@
 |---|---|---|
 | [CartPole](cartpole/) | RL (PPO) | 수레를 움직여 막대의 균형 잡기 |
 | [FrozenLake](frozenlake/) | RL (Q-러닝 직접 구현) | 구멍을 피해 얼음판 건너기 |
+| [LLM Tic-Tac-Toe](llm-tictactoe/) | LLM 에이전트 (프롬프트) | 판을 글로 보고 다음 수 고르기 |
 
 > 프로젝트마다 폴더가 하나씩 있고, 자세한 설명과 결과는 각 폴더의 README에 있습니다.
