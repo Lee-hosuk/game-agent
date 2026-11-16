@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="320" font-family="sans-serif" font-size="12">
+<rect width="720" height="320" fill="white"/>
+<text x="360.0" y="22" text-anchor="middle" font-size="15" font-weight="bold">2048: how far does each bot get?</text>
+<line x1="50" y1="270" x2="700" y2="270" stroke="#e5e5e5"/>
+<text x="44" y="274" text-anchor="end" fill="#555">0%</text>
+<line x1="50" y1="224" x2="700" y2="224" stroke="#e5e5e5"/>
+<text x="44" y="228" text-anchor="end" fill="#555">20%</text>
+<line x1="50" y1="178" x2="700" y2="178" stroke="#e5e5e5"/>
+<text x="44" y="182" text-anchor="end" fill="#555">40%</text>
+<line x1="50" y1="132" x2="700" y2="132" stroke="#e5e5e5"/>
+<text x="44" y="136" text-anchor="end" fill="#555">60%</text>
+<line x1="50" y1="86" x2="700" y2="86" stroke="#e5e5e5"/>
+<text x="44" y="90" text-anchor="end" fill="#555">80%</text>
+<line x1="50" y1="40" x2="700" y2="40" stroke="#e5e5e5"/>
+<text x="44" y="44" text-anchor="end" fill="#555">100%</text>
+<rect x="63.0" y="258.5" width="18.8" height="11.5" fill="#4e79a7"/>
+<text x="115" y="288" text-anchor="middle" fill="#333">random</text>
+<rect x="193.0" y="155.0" width="18.8" height="115.0" fill="#4e79a7"/>
+<rect x="213.8" y="247.0" width="18.8" height="23.0" fill="#f28e2b"/>
+<text x="245" y="288" text-anchor="middle" fill="#333">greedy score</text>
+<rect x="323.0" y="132.0" width="18.8" height="138.0" fill="#4e79a7"/>
+<rect x="343.8" y="247.0" width="18.8" height="23.0" fill="#f28e2b"/>
+<text x="375" y="288" text-anchor="middle" fill="#333">eval only (d0)</text>
+<rect x="453.0" y="155.0" width="18.8" height="115.0" fill="#4e79a7"/>
+<rect x="473.8" y="224.0" width="18.8" height="46.0" fill="#f28e2b"/>
+<text x="505" y="288" text-anchor="middle" fill="#333">expectimax d1</text>
+<rect x="583.0" y="86.0" width="18.8" height="184.0" fill="#4e79a7"/>
+<rect x="603.8" y="86.0" width="18.8" height="184.0" fill="#f28e2b"/>
+<rect x="624.6" y="86.0" width="18.8" height="184.0" fill="#59a14f"/>
+<rect x="645.4" y="132.0" width="18.8" height="138.0" fill="#e15759"/>
+<rect x="666.2" y="132.0" width="18.8" height="138.0" fill="#9c6ade"/>
+<text x="635" y="288" text-anchor="middle" fill="#333">expectimax d2</text>
+<line x1="50" y1="270" x2="700" y2="270" stroke="#333"/>
+<rect x="60" y="302" width="12" height="12" fill="#4e79a7"/><text x="76" y="312">≥ 256</text>
+<rect x="150" y="302" width="12" height="12" fill="#f28e2b"/><text x="166" y="312">≥ 512</text>
+<rect x="240" y="302" width="12" height="12" fill="#59a14f"/><text x="256" y="312">≥ 1024</text>
+<rect x="330" y="302" width="12" height="12" fill="#e15759"/><text x="346" y="312">≥ 2048</text>
+<rect x="420" y="302" width="12" height="12" fill="#9c6ade"/><text x="436" y="312">≥ 4096</text>
+</svg>
