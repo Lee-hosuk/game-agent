@@ -18,5 +18,6 @@
 | [LLM Tic-Tac-Toe](llm-tictactoe/) | LLM 에이전트 (프롬프트) | 판을 글로 보고 다음 수 고르기 |
 | [Connect Four](connect-four/) | 탐색 (알파-베타 가지치기) | 몇 수 앞을 내다보고 돌 4개 잇기 |
 | [2048](2048/) | 탐색 (Expectimax) | 랜덤 타일의 평균을 계산해 4096 타일 만들기 |
+| [LLM Wordle](llm-wordle/) | LLM 에이전트 + 정보 이론 | 힌트를 종합해 5글자 단어 맞히기 |
 
 > 프로젝트마다 폴더가 하나씩 있고, 자세한 설명과 결과는 각 폴더의 README에 있습니다.
