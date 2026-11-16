@@ -5,7 +5,7 @@
 4×4 판에서 타일을 밀어 같은 숫자끼리 합치고 **2048 타일**을 만드는 게임입니다.
 사람의 전략을 담은 **평가 함수**와, 랜덤으로 나오는 새 타일의 평균을 계산하는 **Expectimax 탐색**으로 에이전트를 만들었습니다.
 
-<p align="center"><img src="2048_final.png" alt="final board"></p>
+<p align="center"><img src="2048_final.svg" alt="final board"></p>
 <p align="center">깊이 2 에이전트가 2,734수 만에 4096 타일을 만든 판</p>
 
 ## 사목과 뭐가 다를까?
@@ -45,7 +45,7 @@
 
 ## 결과
 
-![results](2048_results.png)
+![results](2048_results.svg)
 
 | 에이전트 | 판 수 | 최고 타일 |
 |---|:-:|---|
