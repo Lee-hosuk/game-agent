@@ -1,0 +1,5 @@
+# 학습 데이터 / 체크포인트 (용량이 크고 다시 만들 수 있음)
+buffer.npz
+*.pt
+*.tmp
+gomoku_az/
