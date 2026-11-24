@@ -20,6 +20,6 @@
 | [2048](2048/) | 탐색 (Expectimax) | 랜덤 타일의 평균을 계산해 4096 타일 만들기 |
 | [LLM Wordle](llm-wordle/) | LLM 에이전트 + 정보 이론 | 힌트를 종합해 5글자 단어 맞히기 |
 | [Abalone](abalone/) | RL + 탐색 (AlphaZero: ResNet + MCTS 자기대전) | 육각판에서 구슬 밀어내기, 휴리스틱 봇 100%·미니맥스 봇 약 50% |
-| [Gomoku](gomoku/) | RL + 탐색 (AlphaZero: ResNet + MCTS 자기대전) | 한국식 규칙(3-3 금지) 15×15 오목, 아발론 교훈을 처음부터 반영 (학습 진행 중) |
+| [Gomoku](gomoku/) | RL + 탐색 (AlphaZero: ResNet + MCTS 자기대전) | 렌주룰 15×15 오목 (흑 3-3·4-4·6목 금수), 아발론 교훈을 처음부터 반영 (학습 진행 중) |
 
 > 프로젝트마다 폴더가 하나씩 있고, 자세한 설명과 결과는 각 폴더의 README에 있습니다.
